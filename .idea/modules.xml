@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinderApp.iml" filepath="$PROJECT_DIR$/BinderApp.iml" group="BinderApp" />
+      <module fileurl="file://$PROJECT_DIR$/aidlserviceapp/aidlserviceapp.iml" filepath="$PROJECT_DIR$/aidlserviceapp/aidlserviceapp.iml" group="binder/aidlserviceapp" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="binder/app" />
+      <module fileurl="file://$PROJECT_DIR$/binder.iml" filepath="$PROJECT_DIR$/binder.iml" group="binder" />
+    </modules>
+  </component>
+</project>
